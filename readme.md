@@ -16,3 +16,4 @@ Result of sculptureListLengths object:
   '10': { name: 7, artist: 15, description: 272, url: 32
   '11': { name: 6, artist: 10, description: 78, url: 31,
 }
+
