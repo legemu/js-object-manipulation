@@ -11,7 +11,7 @@ const sculptureList = require('./data.js'); // import data.js
 
 const sculptureListLengths = {}; // Empty object to store results
 
-for (let i = 0; i < sculptureList.length; i++) { // For loop to iterate though each object within sculptureList
+for (let i = 0; i < sculptureList.length; i++) { // For loop to iterate through each object within sculptureList
     
     const target = { // Target object created in order to hold lengths of our properties
         name: [],
